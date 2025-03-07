@@ -6,7 +6,7 @@ library(forecast)
 
 
 # Create data frame.
-revenue.data <- read.csv("673_case2.csv")
+revenue.data <- read.csv("Walmart_Revenue_2003 to 2023.csv")
 
 # See the first 6 records of the file.
 head(revenue.data)
