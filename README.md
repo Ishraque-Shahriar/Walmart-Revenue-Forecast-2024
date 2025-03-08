@@ -1,4 +1,4 @@
-# 📊 Walmart Revenue Forecast 2024
+# 📊 Walmart Revenue Forecast 2024-2025
 
 ## 📝 Project Overview
 This project analyzes Walmart's historical revenue data and forecasts revenue for upcoming quarters using time series analysis in R. It employs different forecasting models such as linear trend, quadratic trend, seasonal models, and regression-based models.
@@ -63,5 +63,4 @@ Both perform significantly better than the **Naïve Model**, which has the worst
 ## 🤝 Contribution
 Feel free to contribute by submitting a pull request or raising an issue for improvements.
 
-## 📜 License
-This project is open-source under the MIT License.
+
