@@ -58,7 +58,7 @@ The **Quadratic Trend + Seasonality Model** and **Linear Trend + Seasonality Mod
 
 Both perform significantly better than the **Naïve Model**, which has the worst accuracy.
 
-🔹 **Final Choice:**  The **Linear Trend + Seasonality Model** has the lowest MAPE (3.428%) and Theil's U (0.478), making it the best choice overall.
+🔹 **Final Choice:**  The **Linear Trend + Seasonality Model** has the lowest MAE (4017.85), MAPE (3.428%) and Theil's U (0.478), making it the best choice overall.
 
 ## 🤝 Contribution
 Feel free to contribute by submitting a pull request or raising an issue for improvements.
